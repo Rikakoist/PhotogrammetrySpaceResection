@@ -1,6 +1,6 @@
 # PhotogrammetrySpaceResection
 摄影测量学空间后方交会计算程序。<br>
-本程序使用的用户界面主题为 CSkin，来自 http://www.cskin.net/<br>
+本程序使用的用户界面主题为 [CSkin](http://www.cskin.net/ "CSkin官网")<br>
 使用的矩阵运算类来自 https://github.com/YanjieHe/MatrixLibrary
 ## 用户界面及其使用
 程序界面分为上、下两块区域。<br>
